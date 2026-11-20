@@ -41,7 +41,9 @@ python
 - Belinkov et al. (2019). *Studying the History of the Arabic Language: Language Technology and a Large-Scale Historical Corpus.* Language Resources and Evaluation.
 - Inoue et al. (2021). *The Interplay of Variant, Size, and Task Type in Arabic Pre-trained Language Models.* WANLP.
 - Alhathloul & Ahmad (2026). *Automatic Classification of Arabic Literature into Historical Eras.* arXiv:2601.16138.
+  
 (Autre article et reference)
+
 -
 -
 
